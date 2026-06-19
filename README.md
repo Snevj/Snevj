@@ -1,5 +1,9 @@
-## Hi there 👋
+  ## Hi there 👋
 
+🌱 Python | Machine Learning | Deep Learning | LLM
+🛠️ LLM Stack: Unsloth, TRL, PEFT, 4-bit GGUF Quantization.
+🔗 Connect with me
+💼 LinkedIn | 📧 Email | 💻 Hugging Face
 <!--
 **Snevj/Snevj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
