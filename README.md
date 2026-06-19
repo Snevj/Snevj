@@ -4,7 +4,7 @@
 * 🛠️ **LLM Stack:** Unsloth, TRL, PEFT, 4-bit GGUF Quantization.
 
 ## 🔗 Connect with me
-[💼 LinkedIn]([your_linkedin_link](https://www.linkedin.com/in/sneh-vijayvergiya-86896a257/)) | [📧 Email](mailto:snehvjay@gmail.com) | [💻 Hugging Face](https://huggingface.co/svjay)
+[💼 LinkedIn](https://www.linkedin.com/in/sneh-vijayvergiya-86896a257/) | [📧 Email](mailto:snehvjay@gmail.com) | [💻 Hugging Face](https://huggingface.co/svjay)
 <!--
 **Snevj/Snevj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
